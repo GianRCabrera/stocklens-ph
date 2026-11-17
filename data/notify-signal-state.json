@@ -1,27 +1,27 @@
 {
   "BDO.PS": {
-    "action": "hold",
+    "action": "buy",
     "confidence": 34,
-    "asOf": "2026-11-16"
+    "asOf": "2026-11-17"
   },
   "JFC.PS": {
     "action": "avoid",
-    "confidence": 18,
-    "asOf": "2026-11-16"
+    "confidence": 24,
+    "asOf": "2026-11-17"
   },
   "ALI.PS": {
-    "action": "buy",
-    "confidence": 22,
-    "asOf": "2026-11-16"
+    "action": "hold",
+    "confidence": 25,
+    "asOf": "2026-11-17"
   },
   "SMPH.PS": {
     "action": "buy",
     "confidence": 31,
-    "asOf": "2026-11-16"
+    "asOf": "2026-11-17"
   },
   "SM.PS": {
     "action": "hold",
     "confidence": 28,
-    "asOf": "2026-11-16"
+    "asOf": "2026-11-17"
   }
 }
